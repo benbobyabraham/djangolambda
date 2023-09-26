@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "django_settings": "djangolambda.settings",
+        "profile_name": null,
+        "aws_region": "us-west-2",
+        "project_name": "djangolambda",
+        "runtime": "python3.11",
+        "s3_bucket": "zappa-u9qsrj97w"
+    }
+}
